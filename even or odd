@@ -1,0 +1,13 @@
+# include<stdio.h>
+void main()
+{
+int n;
+printf(" The number is:",n);
+if(n%2==0)
+{
+printf("The number is even");
+}
+else
+{
+printf("the number isw odd");
+}
